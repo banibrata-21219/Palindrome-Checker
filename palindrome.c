@@ -5,7 +5,7 @@ int main()
 {
     char word[10];
     printf("Enter a word: ");
-    scanf("%s", &word);
+    scanf("%s",word);
     
     int i = 0;
     int j = strlen(word) - 1;
